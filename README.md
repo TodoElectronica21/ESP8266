@@ -21,17 +21,19 @@ Realizamos un análisis de sus características, hablamos sobre los diferentes m
 # Comprar ESP8266 barato
 <br>
 <br>
-ESP-01 - https://goo.gl/22wcN3
-ESP-05 - https://goo.gl/K3ekcb
-ESP-12 - https://goo.gl/iVHS1A
-NodeMCU - https://goo.gl/VqBRZ3
-
-Adaptador ESP-01 USB - https://goo.gl/NDvqp2
-Adaptador ESP-01 serie - https://goo.gl/P6zchJ
-Adaptador ESP-12 - https://goo.gl/44GUUZ
-Conversor serie USB FT232RL - https://goo.gl/v2ngkC
-
-ESP-01 placa 2 reles - https://goo.gl/qy7bmh
+ESP-01 - https://goo.gl/22wcN3<br>
+ESP-05 - https://goo.gl/K3ekcb<br>
+ESP-12 - https://goo.gl/iVHS1A<br>
+NodeMCU - https://goo.gl/VqBRZ3<br>
+<br>
+<br>
+Adaptador ESP-01 USB - https://goo.gl/NDvqp2<br>
+Adaptador ESP-01 serie - https://goo.gl/P6zchJ<br>
+Adaptador ESP-12 - https://goo.gl/44GUUZ<br>
+Conversor serie USB FT232RL - https://goo.gl/v2ngkC<br>
+<br>
+<br>
+ESP-01 placa 2 reles - https://goo.gl/qy7bmh<br>
 Placa MB102 3,3V y 5V - https://goo.gl/qqiBcn
 
 
