@@ -1,2 +1,4 @@
-# ESP8266
-Análisis y explicación del ESP8266 - Diferencias entre modelos de placa - Información sobre cómo programarlo
+# ¿Cómo trabajar con ESP8266?
+Realizamos un análisis de sus características, hablamos sobre los diferentes modelos de placa y vemos cómo programarlo.
+
+[![ESP8266](https://i.imgur.com/6kwOxb1.png)](https://www.youtube.com/watch?v=gAe-Kjg_ggc&t "Ver vídeo sobre ESP8266")
