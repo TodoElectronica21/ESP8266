@@ -12,3 +12,7 @@ Realizamos un análisis de sus características, hablamos sobre los diferentes m
 <br>
 <br>
 [![ESP8266](https://i.imgur.com/r5GpSca.png)](https://www.youtube.com/watch?v=9IwJIkTxgME&t "Ver vídeo sobre ESP8266")
+<br>
+<br>
+#Modelos de placa
+![alt text](https://i.imgur.com/CCxHUey.png)
