@@ -18,7 +18,7 @@ Realizamos un análisis de sus características, hablamos sobre los diferentes m
 ![alt text](https://i.imgur.com/CCxHUey.png)
 <br>
 <br>
-# Comprar ESP8266 barato
+# Comprar ESP-01 ESP-05 ESP-12 NodeMCU y adaptadores
 <br>
 <br>
 ESP-01 - https://goo.gl/22wcN3<br>
